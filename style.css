@@ -246,6 +246,10 @@ header ul li a
     {
         max-width: 40px;
     }
+    .small li img
+    {
+        max-width: 80px;
+    }
     .circle
     {
         clip-path: circle(400px at center bottom);
